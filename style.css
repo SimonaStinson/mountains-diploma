@@ -1,0 +1,139 @@
+.container {
+	width: 85%;
+	margin: auto;
+	font-family: OpenSans Regular;
+	font-size: 14px;
+}
+
+button {
+	font-family: Raleway Regular;
+}
+
+.home {
+	background: url('img/background-image-copy.png');
+	height: 610px;
+}
+
+
+
+.menu {
+	margin: -60px auto 80px;
+	
+}
+
+.logo {
+	font-family: Bringin;
+	color: #56c7ff;
+	padding: 0 50px 0 0;
+    font-size: 40px;
+}
+
+span {
+	color: #95a5ad;
+}
+
+.menu-item {
+	display: inline-block;
+	font-family: OpenSans Bold;
+	font-size: 14px;
+	padding: 10px 15px;
+	text-transform: uppercase;
+	color: #6C7A89;
+}
+
+.menu-item:hover {
+	border-bottom: 2px solid #36aeea;
+	color: #9daeb6;
+}
+
+.menu-item:visited {
+	color: #9daeb6;
+}
+
+.menu-item:active {
+	color: #9daeb6;
+}
+
+h4 {
+	float: left;
+}
+
+.call {
+	position: absolute;
+	right: 135px;
+	top: 20px;
+	width: 153px;
+	height: 46px;
+	border: 3px solid #36aeea;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #36aeea;
+	text-transform: uppercase;
+}
+
+.call:active {
+	border: 3px solid white;
+}
+
+.menu-button {
+	color: #36aeea;
+	text-transform: uppercase;
+}
+
+.menu-button:active {
+	color: white;
+}
+
+
+.main-content {
+	width: 100%;
+    border: 3px solid white;
+}
+
+.main-title {
+	width: 50%;
+	text-align: left;
+	margin: 30px;
+    padding: 30px;
+}
+
+.title {
+	font-size: 60px;
+    color: white;
+    text-transform: uppercase;
+    font-family: OpenSans Bold;
+}
+
+.logo-home {
+	font-size: 70px;
+    margin: -25px 0 0;
+    padding: 5px;
+	
+}
+
+.logo-text {
+	font-size: 20px;
+    color: white;
+    opacity: 0.8;
+    margin: 10px 0;
+}
+
+.order {
+width: 253px;
+height: 60px;
+background-color: #36aeea;
+border-radius: 4px;
+margin: 30px 0;
+
+}
+
+.order-button {
+	width: 103px;
+	height: 10px;
+	color: white;
+	font-family: Raleway Regular;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 44px;
+	text-transform: uppercase;
+}
